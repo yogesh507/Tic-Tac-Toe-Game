@@ -54,8 +54,10 @@ cd tic-tac-toe
 Open index.html with any browser
 
 
+
 📸 Screenshots
-Add your game screenshots here
+
+
 
 
 ✨ Future Improvements
