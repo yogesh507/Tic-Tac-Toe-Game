@@ -57,7 +57,7 @@ Open index.html with any browser
 
 📸 Screenshots
 
-
+![Tic Tac Toe Screenshot](images/screenshot.png)
 
 
 ✨ Future Improvements
